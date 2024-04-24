@@ -1,0 +1,6 @@
+[submodule "0xacab_artist_vault"]
+	path = 0xacab_artist_vault
+	url = git@github.com:MatthewMcDade13/0xacab_artist_vault.git
+[submodule "0xacab_greenlight_dist"]
+	path = 0xacab_greenlight_dist
+	url = git@github.com:MatthewMcDade13/0xacab_greenlight_dist.git
